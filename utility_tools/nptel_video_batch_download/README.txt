@@ -1,0 +1,4 @@
+The current version of the tool expects you to have a youtube downloader.As of now the tools is intended for batch download of all the videos in the course specified.The current version is tested only on the courses whose videos have been hosted on www.youtube.com . In order to download all the course videos from say a course on DataBase Management System on Coursera go to the course on www.nptel.in
+and copy the url of the course homepage where the list of the course videos is found.
+The link for the example is: http://www.nptelvideos.in/2012/11/design-analysis-of-algorithms.html .Copy the link and provide it as the argument to the python code. And then let the magic happen. List of the videos "attempted"(becasue error might sneak in sometimes ;) ) to download will be shon in atext file genrated at the end of the run of the process.
+Merry Coding :) 
